@@ -84,6 +84,16 @@
                                         Year = 2017,
                                         Type = "Тухла",
                                     },
+                                    new ModelInput
+                                    {
+                                        BuildingType = "3-СТАЕН",
+                                        District = "град София, Зона Б-19",
+                                        Floor = 5,
+                                        TotalFloors = 7,
+                                        Size = 100,
+                                        Year = 2008,
+                                        Type = "Тухла",
+                                    },
                                 };
             testModelData.Dump();
 
